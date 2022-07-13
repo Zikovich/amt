@@ -224,6 +224,8 @@ definput.import = {'bruce2018'}; % load defaults from arg_bruce2018
 
 [flags,kv]  = ltfatarghelper({},definput,varargin);
 
+flags
+
 % Derive the number of CF fibres
 numCF = length(fc);
 
@@ -292,9 +294,14 @@ if flags.do_specificSR,
   trels = kv.trel;
 end
 
+info
+
 % initializations
 init_size = simdur*fs;
 output_len=floor(simdur/tdres+0.5)*kv.nrep; % length of vihc, c1, c2, synout
+
+output_len
+
 psth_len=output_len/kv.nrep; % length of vr, mr, psth_ft
 psthbins = round(kv.psthbinwidth_mr*fs);  % number of psth_ft bins per psth bin
 
