@@ -11,7 +11,7 @@ So I would like to share in brief my resources and efforts that helped me to und
 At the beginning , I found  that I do not know many of the abbreviations as well as the concept for modeling the cochlear.  So: 
 1. I found UCL extend offering an introduction course for the audiology  “Audiology taster course ” (attached the completion certificate), so I enrolled. It was really a good decision as to know the main concepts of the auditory system and abbreviation.
 
-2. At this time, I make use of being in Cairo to speak with an audiologist and discuss what I learned in the UCL extend course, so after long time of searching, I successfully visited Cairo University Medical school and It was very informative visit that consolidate many concepts. Kindly find the report for my visit. 
+2. At this time, I make use of being in Cairo to speak with an audiologist and discuss what I learned in the UCL extend course, so after long time of searching, I successfully visited Cairo University Medical school and It was very informative visit that consolidate many concepts. Kindly find the report for my visit. https://github.com/Zikovich/amt/blob/main/Islam-Cairo-Uni-Hosptial-Visit.pdf
 
 3. But still I need the mapping between which is called physiological behaviour and computational modeling, I actually searched for many materials and these are the most informative resources
    1. Mohamed Zilany Thesis "Modeling the Neural Representation of Speech in Normal Hearing and Hearing Impaired Listeners", specially chapter 2 and 3. https://www.ece.mcmaster.ca/~ibruce/papers/zilany_thesis.pdf
