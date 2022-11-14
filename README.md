@@ -1,6 +1,6 @@
 Salamo Alikoum
 
-This is just a trial to learn more about computational modeling for cachlear.
+This is just a trial to learn more about computational modeling for cochlear.
 
 So it is based on AMT "AUDITORY MODELING TOOLBOX"
 
